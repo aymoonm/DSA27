@@ -34,7 +34,9 @@ Faculty of Computers and Information Sciences, Mansoura University — Fall 2026
 | **[Worked solutions](../solutions/)** | Every exercise, lab and practice problem solved — read them only after you have tried. |
 | **[Lab manual — weeks 1–15](labs/)** | Python for this course in weeks 1–3, then one lab per week building that week's structure in `dsa/`. Everything you need is in the repository. |
 | **[Your program's regulations](course/regulations/)** | The bylaws, and what they say about this course. |
-| **[Links](links.md)** | WhatsApp channel, YouTube, repository. |
+| **[Online quizzes](https://helghareeb.github.io/en/quizzes/)** | The weekly multiple-choice questions as interactive quizzes on the course website. |
+| [Recorded lectures, 2019/2020](https://helghareeb.github.io/en/videos/dsa20/) | Earlier recordings of this course, to watch or download. |
+| **[Links](links.md)** | WhatsApp channel, YouTube, course website, repository. |
 
 ## Printable PDFs
 
